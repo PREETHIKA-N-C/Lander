@@ -1,2 +1,2 @@
 # Lander
-It is a simple landing page using HTML and CSS
+It is a simple landing page using HTML5 and CSS3
